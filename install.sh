@@ -99,7 +99,7 @@ host: 0.0.0.0
 config_path: $CONFIG_PATH
 [authorization]
 trusted_clients:
-  192.168.1.0/24
+  192.168.0.0/24
 [octoprint_compat]
 [update_manager]
 [update_manager client fluidd]
